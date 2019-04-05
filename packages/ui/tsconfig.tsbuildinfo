@@ -1,0 +1,2205 @@
+{
+  "program": {
+    "fileInfos": {
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/home/max/src/prattle/node_modules/@mdi/js/mdi.d.ts": {
+        "version": "48aeb86002cd4f5cdb82a264677f56332e1ad214765db87d8d3c66079dfa3515",
+        "signature": "48aeb86002cd4f5cdb82a264677f56332e1ad214765db87d8d3c66079dfa3515"
+      },
+      "/home/max/src/prattle/node_modules/@types/react/global.d.ts": {
+        "version": "d5b58524cdaac378daa8228fabc96d6cf6fba4b8940512c7b06f18da47fec7ba",
+        "signature": "d5b58524cdaac378daa8228fabc96d6cf6fba4b8940512c7b06f18da47fec7ba"
+      },
+      "/home/max/src/prattle/node_modules/csstype/index.d.ts": {
+        "version": "78d19dae9617caa7189f9c9ae535ab635e3befc605d92055d71fc88f366a8b91",
+        "signature": "78d19dae9617caa7189f9c9ae535ab635e3befc605d92055d71fc88f366a8b91"
+      },
+      "/home/max/src/prattle/node_modules/@types/prop-types/index.d.ts": {
+        "version": "84af1dcde6fe6d8f4b235efd6b95630bb383b0c8a34e0a80e4aa4813111302b6",
+        "signature": "84af1dcde6fe6d8f4b235efd6b95630bb383b0c8a34e0a80e4aa4813111302b6"
+      },
+      "/home/max/src/prattle/node_modules/@types/react/index.d.ts": {
+        "version": "a6532c3a84e0f937e99a5e2c96e836ea02c0774eadc1f0705faf8bdc3df42471",
+        "signature": "a6532c3a84e0f937e99a5e2c96e836ea02c0774eadc1f0705faf8bdc3df42471"
+      },
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts": {
+        "version": "1b948d34684d9153bf6d7350b0c27b46b2caec920cf4245f49b7b53b391cfd5e",
+        "signature": "1b948d34684d9153bf6d7350b0c27b46b2caec920cf4245f49b7b53b391cfd5e"
+      },
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/StackProps.d.ts": {
+        "version": "29cf80c44c3c433b8dc309ddcee859fc4d2191c2d00f5c77cd89860fda4e035c",
+        "signature": "29cf80c44c3c433b8dc309ddcee859fc4d2191c2d00f5c77cd89860fda4e035c"
+      },
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Stack.d.ts": {
+        "version": "604368009868873e297e6f8877ce7b5b2b2aaf39a27b12e6bba4d4461796c480",
+        "signature": "604368009868873e297e6f8877ce7b5b2b2aaf39a27b12e6bba4d4461796c480"
+      },
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Icon.d.ts": {
+        "version": "d204b962a96b964be441e30ff48a1685ce8693743a63187eaa3b94932c9534c3",
+        "signature": "d204b962a96b964be441e30ff48a1685ce8693743a63187eaa3b94932c9534c3"
+      },
+      "/home/max/src/prattle/packages/theme/lib/themes/default/index.d.ts": {
+        "version": "a0137d9eae77ced041bdc91b5c6337a243b85ae2027509949997b29a6e9ac2f5",
+        "signature": "a0137d9eae77ced041bdc91b5c6337a243b85ae2027509949997b29a6e9ac2f5"
+      },
+      "/home/max/src/prattle/packages/theme/lib/themes/legacy/index.d.ts": {
+        "version": "6314d4d072c34463390f101e75a5bd0dccf4b0623fbd383c7effb69424f38359",
+        "signature": "6314d4d072c34463390f101e75a5bd0dccf4b0623fbd383c7effb69424f38359"
+      },
+      "/home/max/src/prattle/packages/theme/lib/index.d.ts": {
+        "version": "6701ecbe9c224bad7c823a20ceeaff73dd19ffcf935a9c76cb274da5128ff5ea",
+        "signature": "6701ecbe9c224bad7c823a20ceeaff73dd19ffcf935a9c76cb274da5128ff5ea"
+      },
+      "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts": {
+        "version": "44a98fe2984bb0940a8c1414b1e48bddca58aa2c52e8995c061b06bb0cc6f2de",
+        "signature": "44a98fe2984bb0940a8c1414b1e48bddca58aa2c52e8995c061b06bb0cc6f2de"
+      },
+      "/home/max/src/prattle/packages/typings/types/react-jss.d.ts": {
+        "version": "07be1ef2de21261f92810974daadd7232d7cbf22e9de820f323b8ece4710d08e",
+        "signature": "07be1ef2de21261f92810974daadd7232d7cbf22e9de820f323b8ece4710d08e"
+      },
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts": {
+        "version": "562677c03c4ae0b7550c6dac6c83a6934d3d9e160433662d2d5ade0239f2a0e3",
+        "signature": "562677c03c4ae0b7550c6dac6c83a6934d3d9e160433662d2d5ade0239f2a0e3"
+      },
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/IndefiniteObservable.d.ts": {
+        "version": "82d17aa71160b3159291734813c0f725df7a2b0dff01295aac742db75eff55dc",
+        "signature": "82d17aa71160b3159291734813c0f725df7a2b0dff01295aac742db75eff55dc"
+      },
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/index.d.ts": {
+        "version": "60d5d89d825ed4d4109862e205572f0ee18820e44decb04bc53d9a568a20c651",
+        "signature": "60d5d89d825ed4d4109862e205572f0ee18820e44decb04bc53d9a568a20c651"
+      },
+      "/home/max/src/prattle/node_modules/@types/jss/css.d.ts": {
+        "version": "7fdde70f4cc46bed8b72141eb8ea684476b4bee5b14df932fee0adc6f1c800d2",
+        "signature": "7fdde70f4cc46bed8b72141eb8ea684476b4bee5b14df932fee0adc6f1c800d2"
+      },
+      "/home/max/src/prattle/node_modules/@types/jss/index.d.ts": {
+        "version": "e0accf016f4ff83e7da0c8dcf54d36b23575921f7c8ed699ffba6aa507a0ae84",
+        "signature": "e0accf016f4ff83e7da0c8dcf54d36b23575921f7c8ed699ffba6aa507a0ae84"
+      },
+      "/home/max/src/prattle/packages/ui/src/typings/generic.ts": {
+        "version": "ef128df57fd988ce9558e1b893687ad983997b10c2cfae48816a06c908a830b8",
+        "signature": "9f9a0cac1187cabd86c814a266ee572e2d06e644b4536a672f4a64f5d0d6978c"
+      },
+      "/home/max/src/prattle/packages/ui/src/icon/index.tsx": {
+        "version": "dc75c5d2c1964e8ae025a245783285bf236a511ffe0cd703de7dde612e867259",
+        "signature": "5a7bc6ee4c766ea49250e87eb04333c056189973a00637f9d02ae99a73b3892c"
+      },
+      "/home/max/src/prattle/packages/ui/src/infobox/index.tsx": {
+        "version": "432d3294c894ae716a8f12f3baafce97e90b36b221c2ca33a91ee7c2bcc980af",
+        "signature": "086ecbe60c62dda722285e4f8ea16907fb17b01dd9e38c2a7eed45edae875c05"
+      },
+      "/home/max/src/prattle/packages/ui/src/headline/index.tsx": {
+        "version": "d8a3270ee064236516b6507b2b6ac15c386bb7ebfbb73ea283083db6cfa0f990",
+        "signature": "c3be5fac26d519752f07a66254cb9147c53369ba489559fa197551172333a958"
+      },
+      "/home/max/src/prattle/packages/typings/types/react-loader.d.ts": {
+        "version": "8f1f2b72c526718183bf86d71935e953ad7b7d3dc6276e8693b58ac5b241b9f3",
+        "signature": "8f1f2b72c526718183bf86d71935e953ad7b7d3dc6276e8693b58ac5b241b9f3"
+      },
+      "/home/max/src/prattle/packages/ui/src/loader/index.tsx": {
+        "version": "268edfb27527e9696246c46e32488219f81dd661007075bce59f8fce79a1edf9",
+        "signature": "34a53535f7d33e786586cd75cb0171d22fd7be91fa25a2a7c05312b7f79c2ae5"
+      },
+      "/home/max/src/prattle/packages/ui/src/badge/index.tsx": {
+        "version": "3be08bbbe89578a416a3f1bd043daea67be0e5b5711d9dc70ebb56529178981d",
+        "signature": "2bfab31440e2a4cd5a325c3c6342ebedf908137530eb26be0090b503987a1920"
+      },
+      "/home/max/src/prattle/packages/ui/src/index.ts": {
+        "version": "795988bb3dbf56e8818cee478af234d4d57c031c152f2f629593909ab534d1c5",
+        "signature": "795988bb3dbf56e8818cee478af234d4d57c031c152f2f629593909ab534d1c5"
+      },
+      "/home/max/src/prattle/node_modules/@types/color-name/index.d.ts": {
+        "version": "5bf353960ae27b3fd0279b35f26479483414159844ab3150fb2bb4df2b797f35",
+        "signature": "5bf353960ae27b3fd0279b35f26479483414159844ab3150fb2bb4df2b797f35"
+      },
+      "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts": {
+        "version": "53a2be05c71e473e72bc3cde64083a914110ce2fe08afab0a4fa16059ad20b60",
+        "signature": "53a2be05c71e473e72bc3cde64083a914110ce2fe08afab0a4fa16059ad20b60"
+      },
+      "/home/max/src/prattle/node_modules/@types/color-convert/route.d.ts": {
+        "version": "6feb023c015c779052a59818c8793d7560efc24b0c9b2b11d205981884b43e9b",
+        "signature": "6feb023c015c779052a59818c8793d7560efc24b0c9b2b11d205981884b43e9b"
+      },
+      "/home/max/src/prattle/node_modules/@types/color-convert/index.d.ts": {
+        "version": "45f852cb5bdbafdff6cacc2208c1efda784cd8d29e08d8b3cbbccc4043c834cd",
+        "signature": "45f852cb5bdbafdff6cacc2208c1efda784cd8d29e08d8b3cbbccc4043c834cd"
+      },
+      "/home/max/src/prattle/node_modules/@types/color/index.d.ts": {
+        "version": "1281bdbfcdb7f78b900d5916db2e47ee35b8f2ad0d97e978f2b34ca7064a14c8",
+        "signature": "1281bdbfcdb7f78b900d5916db2e47ee35b8f2ad0d97e978f2b34ca7064a14c8"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts": {
+        "version": "826e226ef4293d2e692c796d7cc81c94f353c57fd6016685b79d68134e5df047",
+        "signature": "826e226ef4293d2e692c796d7cc81c94f353c57fd6016685b79d68134e5df047"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts": {
+        "version": "24f73778cc712f3d2ff4b69227957577487118bd41652b63c5f913ba12f7631a",
+        "signature": "24f73778cc712f3d2ff4b69227957577487118bd41652b63c5f913ba12f7631a"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts": {
+        "version": "b645de8e8084e4cb7fb9ba2d8e3fd893dc3b5a6568fb7a5027aec4f779ef814d",
+        "signature": "b645de8e8084e4cb7fb9ba2d8e3fd893dc3b5a6568fb7a5027aec4f779ef814d"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts": {
+        "version": "6e88e36ca6d6953fde31898701899e61239b22f09906d5970caac88107a4b01a",
+        "signature": "6e88e36ca6d6953fde31898701899e61239b22f09906d5970caac88107a4b01a"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts": {
+        "version": "8d0b0656ffc2f973bdea853fc00a3f99122db54fd7a0e13bf87d6f358fbc3c6e",
+        "signature": "8d0b0656ffc2f973bdea853fc00a3f99122db54fd7a0e13bf87d6f358fbc3c6e"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts": {
+        "version": "213590e0f4f916d3be462f03cf3373ac760895f010cf2a08707931b0aaf35a6d",
+        "signature": "213590e0f4f916d3be462f03cf3373ac760895f010cf2a08707931b0aaf35a6d"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts": {
+        "version": "90e654b460f8ff7a3ff73ec54996290afebf00c8acc0fc634961af1509416db5",
+        "signature": "90e654b460f8ff7a3ff73ec54996290afebf00c8acc0fc634961af1509416db5"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts": {
+        "version": "81fdef0cbc4aeed4e29f7ed43d7b768ebe39e068da55c95bd710f47be289d6ac",
+        "signature": "81fdef0cbc4aeed4e29f7ed43d7b768ebe39e068da55c95bd710f47be289d6ac"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts": {
+        "version": "5b862cc75ad50ea22d5a94c8e8be788541d831689b0533abeb280f638e0e7328",
+        "signature": "5b862cc75ad50ea22d5a94c8e8be788541d831689b0533abeb280f638e0e7328"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts": {
+        "version": "e4db201366aed6e8ec28c4f9e998729477b0825ae7e517441e8000f192b8b033",
+        "signature": "e4db201366aed6e8ec28c4f9e998729477b0825ae7e517441e8000f192b8b033"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts": {
+        "version": "20fb7144dd7a3e5007cc44e96c843879216fd082bf5761bd420715d645eb683e",
+        "signature": "20fb7144dd7a3e5007cc44e96c843879216fd082bf5761bd420715d645eb683e"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts": {
+        "version": "026742bab94860543fde035a6bfd5d5103fab08afbdacf9a207a44b2bb6fccba",
+        "signature": "026742bab94860543fde035a6bfd5d5103fab08afbdacf9a207a44b2bb6fccba"
+      },
+      "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts": {
+        "version": "eaa8d56bff006bd59e748e0af3354f32a934f58db4835e0f1026e091087a49bf",
+        "signature": "eaa8d56bff006bd59e748e0af3354f32a934f58db4835e0f1026e091087a49bf"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/globals.d.ts": {
+        "version": "3b35c478f6eda42757fa1643f193726fc0975e664107a4a4cbd00e8179eee08a",
+        "signature": "3b35c478f6eda42757fa1643f193726fc0975e664107a4a4cbd00e8179eee08a"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/assert.d.ts": {
+        "version": "e37e4814461321ef67cbb2f4c9def6be18ff85670e6c665131b320e052905b75",
+        "signature": "e37e4814461321ef67cbb2f4c9def6be18ff85670e6c665131b320e052905b75"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a",
+        "signature": "138476cfdccbb9e2c7e06602bc216af843a56c4f3469a79106bc660ba94bd66a"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/buffer.d.ts": {
+        "version": "b748a54b6e3a13000ca38e180de90c262fa7350b72e9eb5f0b476637743f1594",
+        "signature": "b748a54b6e3a13000ca38e180de90c262fa7350b72e9eb5f0b476637743f1594"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts": {
+        "version": "464c583048742f726235a250f247412cc9412c13266bab7160d7e523fd9e2219",
+        "signature": "464c583048742f726235a250f247412cc9412c13266bab7160d7e523fd9e2219"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/cluster.d.ts": {
+        "version": "fcd718b2feb2820a9844536a1a2fbc77a3da90820e02894d40f879a789f46560",
+        "signature": "fcd718b2feb2820a9844536a1a2fbc77a3da90820e02894d40f879a789f46560"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/constants.d.ts": {
+        "version": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598",
+        "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts": {
+        "version": "0df96192dc9aac2211518ad23ba602264d83e8873222e01f6cb6a12ddbd74aa4",
+        "signature": "0df96192dc9aac2211518ad23ba602264d83e8873222e01f6cb6a12ddbd74aa4"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/dgram.d.ts": {
+        "version": "3589211ff9b1ab96e22090e32be753ad1eb677da58b735b8d655af850b3777dc",
+        "signature": "3589211ff9b1ab96e22090e32be753ad1eb677da58b735b8d655af850b3777dc"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/dns.d.ts": {
+        "version": "92bd533d635f967b198fde9bc789996370f0db3322306646d961f64e67ed5b7a",
+        "signature": "92bd533d635f967b198fde9bc789996370f0db3322306646d961f64e67ed5b7a"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/domain.d.ts": {
+        "version": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304",
+        "signature": "ae3487bdb9b50c1d8bbeb6b55c8b2b9aa79bbc46d7afbc3483169ad8750c4304"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/events.d.ts": {
+        "version": "4a419878f025046ff6748d073123b0451849f83b7dbca907037a53e3eaa9bbbb",
+        "signature": "4a419878f025046ff6748d073123b0451849f83b7dbca907037a53e3eaa9bbbb"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/fs.d.ts": {
+        "version": "dbe39c84ad40acd4b4259bc035aa5870ab08bcab899d2f7089c7922a434cf02d",
+        "signature": "dbe39c84ad40acd4b4259bc035aa5870ab08bcab899d2f7089c7922a434cf02d"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/http.d.ts": {
+        "version": "6e9cbaa8927a3ef01befc699c423bf124c39f9f730a4c4f6e26c53a02928ae46",
+        "signature": "6e9cbaa8927a3ef01befc699c423bf124c39f9f730a4c4f6e26c53a02928ae46"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/http2.d.ts": {
+        "version": "1567893fe36abc061c38051864351e59ed078fc22827d44bfaee82125f02a0dd",
+        "signature": "1567893fe36abc061c38051864351e59ed078fc22827d44bfaee82125f02a0dd"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/https.d.ts": {
+        "version": "15ded1d3b6c714729da95863226d262e4b6216df9a3531864c4c74e5febe8a62",
+        "signature": "15ded1d3b6c714729da95863226d262e4b6216df9a3531864c4c74e5febe8a62"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/inspector.d.ts": {
+        "version": "0d668f73487c0d16fd6c1051c61b76d3b590cd986fadea91da08dff459dbec45",
+        "signature": "0d668f73487c0d16fd6c1051c61b76d3b590cd986fadea91da08dff459dbec45"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/net.d.ts": {
+        "version": "cf9ccf09c342506bbb2936db366657cee933b448fc9cefd42f6407ac66463536",
+        "signature": "cf9ccf09c342506bbb2936db366657cee933b448fc9cefd42f6407ac66463536"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/os.d.ts": {
+        "version": "0ab49f803fa1d0f26682096e87ae239be05fee89ac538d30c59ab5a15bd38e6a",
+        "signature": "0ab49f803fa1d0f26682096e87ae239be05fee89ac538d30c59ab5a15bd38e6a"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/path.d.ts": {
+        "version": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c",
+        "signature": "61c84c3b0eb6e60196d15ae5e21793a1d4241c547f0bdd0529ffae838d1a073c"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86",
+        "signature": "981192e57b0e159c977f1d8e8b8576e9d6b4e013b902e9c0d4b178cb47e2dc86"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/punycode.d.ts": {
+        "version": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735",
+        "signature": "eeb0d1ad28e70773ac57ae9fe939c3bad6af2525a463c28f9ec31b5953de6735"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts": {
+        "version": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e",
+        "signature": "8969e0b4d22ca77ad011c8fc4a25ec5d515bdfae4ecbd22608ed0d5c38829c1e"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/readline.d.ts": {
+        "version": "563876884b355abe0e06d4dea41f25ae2324f6375e80acfd1402f076c97cb270",
+        "signature": "563876884b355abe0e06d4dea41f25ae2324f6375e80acfd1402f076c97cb270"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/repl.d.ts": {
+        "version": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a",
+        "signature": "d0b0b533dc34ff7ffd019665fdc2b2aeae717bc1347e17a5bdc4d6572b5c109a"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/stream.d.ts": {
+        "version": "6e04fe987766b22afe0b959da7145f904c164fe2c17586b218b8fcdad5792d51",
+        "signature": "6e04fe987766b22afe0b959da7145f904c164fe2c17586b218b8fcdad5792d51"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
+        "signature": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/tls.d.ts": {
+        "version": "7dbc6bcfd5990db699e1bc5cf7fc0f4f17212084e99d89795972e594b4c0a72d",
+        "signature": "7dbc6bcfd5990db699e1bc5cf7fc0f4f17212084e99d89795972e594b4c0a72d"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/tty.d.ts": {
+        "version": "b8553c42868db5dd58a51b0a7f02afb4c99e3b0bd98ea4d2da8140cf978dc46c",
+        "signature": "b8553c42868db5dd58a51b0a7f02afb4c99e3b0bd98ea4d2da8140cf978dc46c"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/url.d.ts": {
+        "version": "431151f55411c3f27cf539b987a7d1de453188ed58e54bc946183d280d3444a2",
+        "signature": "431151f55411c3f27cf539b987a7d1de453188ed58e54bc946183d280d3444a2"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/util.d.ts": {
+        "version": "5993a47cb055293271bba9bf0efaf682e76680759398f210d9afe905f4731203",
+        "signature": "5993a47cb055293271bba9bf0efaf682e76680759398f210d9afe905f4731203"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/v8.d.ts": {
+        "version": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded",
+        "signature": "e880a08fbb0d9ee2f733f9183f4d1bdb75bc9e0e64060a8a1fc30540791fcded"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/vm.d.ts": {
+        "version": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9",
+        "signature": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "8a87dd992a5e61de7b93186c6e351f967f51f2cf75c35e83bed6e6c102f08c85",
+        "signature": "8a87dd992a5e61de7b93186c6e351f967f51f2cf75c35e83bed6e6c102f08c85"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/zlib.d.ts": {
+        "version": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559",
+        "signature": "58257a0147702ab415ed18164557a0feb9c5d1351792ea293a876e6b7ed0c559"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts": {
+        "version": "a06a47025b1ea25370d5d04ceea844d0d5eed4036b404456804a4d11900867ad",
+        "signature": "a06a47025b1ea25370d5d04ceea844d0d5eed4036b404456804a4d11900867ad"
+      },
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/index.d.ts": {
+        "version": "e73d094ee81ef8e47621ba82506c216622203d916e74b50377a3698973e1cf5f",
+        "signature": "e73d094ee81ef8e47621ba82506c216622203d916e74b50377a3698973e1cf5f"
+      },
+      "/home/max/src/prattle/node_modules/@types/react-dom/index.d.ts": {
+        "version": "12845f6e914bc30853eb2118aee9a3eb1800cd61dc46b69767c2a4e9d9326ea2",
+        "signature": "12845f6e914bc30853eb2118aee9a3eb1800cd61dc46b69767c2a4e9d9326ea2"
+      },
+      "/home/max/src/prattle/node_modules/@types/theming/index.d.ts": {
+        "version": "6448e8df788203c57e3c6b67af35f1fa874cc3d93436e821005fbbabec78094b",
+        "signature": "6448e8df788203c57e3c6b67af35f1fa874cc3d93436e821005fbbabec78094b"
+      },
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/injectSheet.d.ts": {
+        "version": "069a191b6e4ead6ad94a104f3c30de340ebcc357de5b8bef8eb1a5eb2b68b9dd",
+        "signature": "069a191b6e4ead6ad94a104f3c30de340ebcc357de5b8bef8eb1a5eb2b68b9dd"
+      },
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/JssProvider.d.ts": {
+        "version": "8ce951653e7967e037b01090406384bdd81bff28474336e16d5c6c7aee2690e4",
+        "signature": "8ce951653e7967e037b01090406384bdd81bff28474336e16d5c6c7aee2690e4"
+      },
+      "/home/max/src/prattle/node_modules/@types/react-jss/index.d.ts": {
+        "version": "1222385940e4f36b12d935d55786352d5486381135e27774b64f3cfc3b4d9d14",
+        "signature": "1222385940e4f36b12d935d55786352d5486381135e27774b64f3cfc3b4d9d14"
+      },
+      "/home/max/src/prattle/node_modules/@types/uuid/interfaces.d.ts": {
+        "version": "82a32b2f8fb8b7c6a62f3129d1faec8f18dd04918cf86aa3962e52de6724ad89",
+        "signature": "82a32b2f8fb8b7c6a62f3129d1faec8f18dd04918cf86aa3962e52de6724ad89"
+      },
+      "/home/max/src/prattle/node_modules/@types/uuid/index.d.ts": {
+        "version": "ad52430a0480fd221ff10281a93e3683cbc6666027e24aea148db93d732a68f7",
+        "signature": "ad52430a0480fd221ff10281a93e3683cbc6666027e24aea148db93d732a68f7"
+      }
+    },
+    "options": {
+      "baseUrl": "/home/max/src/prattle",
+      "target": 7,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts",
+        "lib.es2017.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "jsx": 2,
+      "sourceMap": true,
+      "strict": true,
+      "allowSyntheticDefaultImports": true,
+      "experimentalDecorators": true,
+      "composite": true,
+      "esModuleInterop": true,
+      "typeRoots": [
+        "/home/max/src/prattle/packages/typings/types",
+        "/home/max/src/prattle/node_modules/@types"
+      ],
+      "paths": {
+        "@types/*": [
+          "packages/typings/types/*.d.ts"
+        ],
+        "*": [
+          "packages/typings/types/*.d.ts"
+        ]
+      },
+      "outDir": "/home/max/src/prattle/packages/ui/lib",
+      "rootDir": "/home/max/src/prattle/packages/ui/src",
+      "configFilePath": "/home/max/src/prattle/packages/ui/tsconfig.json"
+    },
+    "referencedMap": {
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/js/mdi.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react/global.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/csstype/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/prop-types/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react/index.d.ts": [
+        "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/prop-types/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/global.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/StackProps.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Stack.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/StackProps.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Icon.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/Stack.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/theme/lib/themes/default/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/theme/lib/themes/legacy/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/theme/lib/index.d.ts": [
+        "/home/max/src/prattle/packages/theme/lib/themes/default/index.d.ts",
+        "/home/max/src/prattle/packages/theme/lib/themes/legacy/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/typings/types/react-jss.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/IndefiniteObservable.d.ts": [
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/index.d.ts": [
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts",
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/IndefiniteObservable.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/jss/css.d.ts": [
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/index.d.ts",
+        "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/jss/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/jss/css.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/typings/generic.ts": [
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/icon/index.tsx": [
+        "/home/max/src/prattle/node_modules/@mdi/js/mdi.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/Icon.d.ts",
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/packages/typings/types/react-jss.d.ts",
+        "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/infobox/index.tsx": [
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/packages/typings/types/react-jss.d.ts",
+        "/home/max/src/prattle/packages/ui/src/index.ts",
+        "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/headline/index.tsx": [
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/packages/typings/types/react-jss.d.ts",
+        "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/typings/types/react-loader.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/loader/index.tsx": [
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/packages/typings/types/react-jss.d.ts",
+        "/home/max/src/prattle/packages/typings/types/react-loader.d.ts",
+        "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/badge/index.tsx": [
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/packages/typings/types/react-jss.d.ts",
+        "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/index.ts": [
+        "/home/max/src/prattle/packages/ui/src/icon/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/infobox/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/headline/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/loader/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/badge/index.tsx",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-name/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-name/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-convert/route.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-convert/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts",
+        "/home/max/src/prattle/node_modules/@types/color-convert/route.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-convert/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/globals.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/assert.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/buffer.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/cluster.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/console.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/constants.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/dgram.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/dns.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/domain.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/events.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/fs.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/http.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/http2.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/fs.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/https.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/inspector.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/module.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/net.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/os.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/path.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/perf_hooks.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/process.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/punycode.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/readline.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/repl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/readline.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/vm.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/stream.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/string_decoder.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/timers.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/tls.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/trace_events.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/tty.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/url.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/util.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/v8.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/vm.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/worker_threads.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/zlib.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/base.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/globals.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/assert.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/buffer.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/cluster.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/console.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/constants.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dgram.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/domain.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/fs.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http2.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/https.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/inspector.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/module.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/os.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/path.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/perf_hooks.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/process.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/punycode.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/readline.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/repl.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/string_decoder.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/timers.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/trace_events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/tty.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/v8.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/vm.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/worker_threads.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/zlib.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/base.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-dom/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/theming/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/injectSheet.d.ts": [
+        "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/theming/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/JssProvider.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-jss/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/theming/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react-jss/lib/injectSheet.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react-jss/lib/JssProvider.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/uuid/interfaces.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/uuid/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/uuid/interfaces.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/js/mdi.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/index.ts": [
+        "/home/max/src/prattle/packages/ui/src/icon/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/infobox/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/headline/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/loader/index.tsx",
+        "/home/max/src/prattle/packages/ui/src/badge/index.tsx"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react/global.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/csstype/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/injectSheet.d.ts": [
+        "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/theming/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-jss/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/theming/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react-jss/lib/injectSheet.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react-jss/lib/JssProvider.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/jss/css.d.ts": [
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/index.d.ts",
+        "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/jss/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/jss/css.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/JssProvider.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/typings/generic.ts": [
+        "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+        "/home/max/src/prattle/packages/theme/lib/index.d.ts"
+      ],
+      "/home/max/src/prattle/packages/ui/src/headline/index.tsx": [
+        "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react/index.d.ts": [
+        "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/prop-types/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/react/global.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/theming/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/react-dom/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/typings/types/react-loader.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Icon.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/Stack.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Stack.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/StackProps.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/StackProps.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/prop-types/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/theme/lib/themes/default/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/theme/lib/index.d.ts": [
+        "/home/max/src/prattle/packages/theme/lib/themes/default/index.d.ts",
+        "/home/max/src/prattle/packages/theme/lib/themes/legacy/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/theme/lib/themes/legacy/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/packages/typings/types/react-jss.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/index.d.ts": [
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts",
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/IndefiniteObservable.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/IndefiniteObservable.d.ts": [
+        "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-name/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-name/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-convert/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts",
+        "/home/max/src/prattle/node_modules/@types/color-convert/route.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-convert/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/color-convert/route.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+        "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/globals.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/assert.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/base.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/globals.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/assert.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/buffer.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/cluster.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/console.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/constants.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dgram.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/domain.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/fs.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http2.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/https.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/inspector.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/module.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/os.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/path.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/perf_hooks.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/process.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/punycode.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/readline.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/repl.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/string_decoder.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/timers.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/trace_events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/tty.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/v8.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/vm.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/worker_threads.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/zlib.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/base.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/uuid/interfaces.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/index.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/uuid/index.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/uuid/interfaces.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/perf_hooks.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/buffer.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/cluster.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/console.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/constants.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/tls.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/https.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/http2.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/fs.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/dgram.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/dns.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/net.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/tty.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/http.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/domain.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/events.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/worker_threads.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/stream.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/zlib.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/readline.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/repl.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/readline.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/vm.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/fs.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/inspector.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/module.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/os.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/path.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/process.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/punycode.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/url.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/string_decoder.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/timers.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/trace_events.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/util.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/vm.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ],
+      "/home/max/src/prattle/node_modules/@types/node/v8.d.ts": [
+        "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+        "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es5.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.dom.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/home/max/src/prattle/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/home/max/src/prattle/node_modules/@mdi/js/mdi.d.ts",
+      "/home/max/src/prattle/node_modules/@types/react/global.d.ts",
+      "/home/max/src/prattle/node_modules/csstype/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/prop-types/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/react/index.d.ts",
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/IconProps.d.ts",
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/StackProps.d.ts",
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Stack.d.ts",
+      "/home/max/src/prattle/node_modules/@mdi/react/dist/Icon.d.ts",
+      "/home/max/src/prattle/packages/theme/lib/themes/default/index.d.ts",
+      "/home/max/src/prattle/packages/theme/lib/themes/legacy/index.d.ts",
+      "/home/max/src/prattle/packages/theme/lib/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/classnames/index.d.ts",
+      "/home/max/src/prattle/packages/typings/types/react-jss.d.ts",
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/types.d.ts",
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/IndefiniteObservable.d.ts",
+      "/home/max/src/prattle/node_modules/indefinite-observable/dist/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/jss/css.d.ts",
+      "/home/max/src/prattle/node_modules/@types/jss/index.d.ts",
+      "/home/max/src/prattle/packages/ui/src/typings/generic.ts",
+      "/home/max/src/prattle/packages/ui/src/icon/index.tsx",
+      "/home/max/src/prattle/packages/ui/src/infobox/index.tsx",
+      "/home/max/src/prattle/packages/ui/src/headline/index.tsx",
+      "/home/max/src/prattle/packages/typings/types/react-loader.d.ts",
+      "/home/max/src/prattle/packages/ui/src/loader/index.tsx",
+      "/home/max/src/prattle/packages/ui/src/badge/index.tsx",
+      "/home/max/src/prattle/packages/ui/src/index.ts",
+      "/home/max/src/prattle/node_modules/@types/color-name/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/color-convert/conversions.d.ts",
+      "/home/max/src/prattle/node_modules/@types/color-convert/route.d.ts",
+      "/home/max/src/prattle/node_modules/@types/color-convert/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/color/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/common.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/array.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/collection.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/date.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/function.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/lang.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/math.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/number.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/object.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/seq.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/string.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/common/util.d.ts",
+      "/home/max/src/prattle/node_modules/@types/lodash/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/globals.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/assert.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/async_hooks.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/buffer.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/child_process.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/cluster.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/console.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/constants.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/crypto.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/dgram.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/dns.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/domain.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/events.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/fs.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/http.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/http2.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/https.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/inspector.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/module.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/net.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/os.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/path.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/perf_hooks.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/process.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/punycode.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/querystring.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/readline.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/repl.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/stream.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/string_decoder.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/timers.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/tls.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/trace_events.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/tty.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/url.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/util.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/v8.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/vm.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/worker_threads.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/zlib.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/base.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/util.d.ts",
+      "/home/max/src/prattle/node_modules/@types/node/ts3.1/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/react-dom/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/theming/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/injectSheet.d.ts",
+      "/home/max/src/prattle/node_modules/@types/react-jss/lib/JssProvider.d.ts",
+      "/home/max/src/prattle/node_modules/@types/react-jss/index.d.ts",
+      "/home/max/src/prattle/node_modules/@types/uuid/interfaces.d.ts",
+      "/home/max/src/prattle/node_modules/@types/uuid/index.d.ts"
+    ]
+  },
+  "version": "3.4.1"
+}
