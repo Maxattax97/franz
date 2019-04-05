@@ -1,7 +1,7 @@
 <img src="./build-helpers/images/icon.png" alt="" width="150"/>
 
 # Prattle
-[![Build status Windows](https://ci.appveyor.com/api/projects/status/9yman4ye19x4274o/branch/master?svg=true)](https://ci.appveyor.com/project/adlk/franz/branch/master)
+[![Build status Windows](https://ci.appveyor.com/api/projects/status/9yman4ye19x4274o/branch/master?svg=true)](https://ci.appveyor.com/project/Maxattax97/prattle/branch/master)
  [![Build Status Mac & Linux](https://travis-ci.com/Maxattax97/prattle.svg?branch=master)](https://travis-ci.com/Maxattax97/prattle) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://meetfranz.com/payment.html)
 
 Application that organizes messaging services like WhatsApp, Slack, Messenger and many more.
