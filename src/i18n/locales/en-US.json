@@ -280,6 +280,6 @@
   "validation.oneRequired": "At least one is required",
   "validation.required": "{field} is required",
   "validation.url": "{field} is not a valid URL",
-  "welcome.loginButton": "Login to your account",
+  "welcome.loginButton": "Get started",
   "welcome.signupButton": "Create a free account"
 }

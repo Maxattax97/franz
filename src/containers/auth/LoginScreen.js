@@ -13,6 +13,7 @@ export default @inject('stores', 'actions') @observer class LoginScreen extends 
 
   render() {
     const { actions, stores, error } = this.props;
+    console.log(this.props);
     return (
       <Login
         onSubmit={actions.user.login}

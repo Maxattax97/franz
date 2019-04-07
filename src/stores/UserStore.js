@@ -126,14 +126,15 @@ export default class UserStore extends Store {
 
   // Data
   @computed get isLoggedIn() {
-    return Boolean(localStorage.getItem('authToken'));
+    return true; // Boolean(localStorage.getItem('authToken'));
   }
 
   @computed get isTokenExpired() {
-    if (!this.authToken) return false;
-
-    const { tokenExpiry } = this._parseToken(this.authToken);
-    return this.authToken !== null && moment(tokenExpiry).isBefore(moment());
+    return false;
+    // if (!this.authToken) return false;
+    //
+    // const { tokenExpiry } = this._parseToken(this.authToken);
+    // return this.authToken !== null && moment(tokenExpiry).isBefore(moment());
   }
 
   @computed get data() {
@@ -148,8 +149,8 @@ export default class UserStore extends Store {
 
   // Actions
   @action async _login({ email, password }) {
-    const authToken = await this.loginRequest.execute(email, password)._promise;
-    this._setUserData(authToken);
+    // const authToken = await this.loginRequest.execute(email, password)._promise;
+    // this._setUserData(authToken);
 
     this.stores.router.push('/');
 
@@ -210,7 +211,7 @@ export default class UserStore extends Store {
   }
 
   @action async _update({ userData }) {
-    if (!this.isLoggedIn) return;
+    // if (!this.isLoggedIn) return;
 
     const response = await this.updateUserInfoRequest.execute(userData)._promise;
 

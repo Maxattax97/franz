@@ -47,16 +47,19 @@ export default class ServerApi {
 
   // User
   async login(email, passwordHash) {
-    const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/auth/login`, this._prepareAuthRequest({
-      method: 'POST',
-      headers: {
-        Authorization: `Basic ${window.btoa(`${email}:${passwordHash}`)}`,
-      },
-    }, false));
-    if (!request.ok) {
-      throw request;
-    }
-    const u = await request.json();
+    console.log('Login attempt');
+    // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/auth/login`, this._prepareAuthRequest({
+    //   method: 'POST',
+    //   headers: {
+    //     Authorization: `Basic ${window.btoa(`${email}:${passwordHash}`)}`,
+    //   },
+    // }, false));
+    // if (!request.ok) {
+    //   throw request;
+    // }
+    // const u = await request.json();
+
+    const u = JSON.parse('{"message":"Successfully logged in","token":"fake.token"}');
 
     debug('ServerApi::login resolves', u);
     return u.token;
@@ -106,13 +109,18 @@ export default class ServerApi {
   }
 
   async userInfo() {
-    const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/me`, this._prepareAuthRequest({
-      method: 'GET',
-    }));
-    if (!request.ok) {
-      throw request;
-    }
-    const data = await request.json();
+    console.log('User info retrieval attempt');
+    // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/me`, this._prepareAuthRequest({
+    //   method: 'GET',
+    // }));
+    // if (!request.ok) {
+    //   throw request;
+    // }
+    // const data = await request.json();
+
+    const data = {
+      accountType: 'individual', beta: true, donor: {}, email: 'richard.stallman@email.com', emailValidated: true, features: {}, firstname: 'Richard', id: 'fake-id', lastname: 'Stallman', locale: 'en-US', isPremium: true, isSubscriptionOwner: true, isTeamUser: true,
+    };
 
     const user = new UserModel(data);
     debug('ServerApi::userInfo resolves', user);
@@ -150,13 +158,15 @@ export default class ServerApi {
 
   // Services
   async getServices() {
-    const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/me/services`, this._prepareAuthRequest({
-      method: 'GET',
-    }));
-    if (!request.ok) {
-      throw request;
-    }
-    const data = await request.json();
+    console.log('Service retrieval attempt');
+    // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/me/services`, this._prepareAuthRequest({
+    //   method: 'GET',
+    // }));
+    // if (!request.ok) {
+    //   throw request;
+    // }
+    // const data = await request.json();
+    const data = [];
 
     let services = await this._mapServiceModels(data);
     services = services.filter(service => service !== null);
@@ -264,13 +274,17 @@ export default class ServerApi {
 
   // Features
   async getDefaultFeatures() {
-    const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/features/default`, this._prepareAuthRequest({
-      method: 'GET',
-    }));
-    if (!request.ok) {
-      throw request;
-    }
-    const data = await request.json();
+    console.log('Default features retrieval attempt');
+    // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/features/default`, this._prepareAuthRequest({
+    //   method: 'GET',
+    // }));
+    // if (!request.ok) {
+    //   throw request;
+    // }
+    // const data = await request.json();
+    const data = {
+      needToWaitToProceed: false, needToWaitToProceedConfig: { wait: 0, delayOffset: 7200000 }, isSpellcheckerPremiumFeature: false, isServiceProxyEnabled: true, isServiceProxyPremiumFeature: false, isWorkspacePremiumFeature: false, isWorkspaceEnabled: false,
+    };
 
     const features = data;
     console.debug('ServerApi::getDefaultFeatures resolves', features);
@@ -278,13 +292,17 @@ export default class ServerApi {
   }
 
   async getFeatures() {
-    const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/features`, this._prepareAuthRequest({
-      method: 'GET',
-    }));
-    if (!request.ok) {
-      throw request;
-    }
-    const data = await request.json();
+    console.log('Features retrieval attempt');
+    // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/features`, this._prepareAuthRequest({
+    //   method: 'GET',
+    // }));
+    // if (!request.ok) {
+    //   throw request;
+    // }
+    // const data = await request.json();
+    const data = {
+      needToWaitToProceed: false, needToWaitToProceedConfig: { wait: 0, delayOffset: 7200000 }, isSpellcheckerPremiumFeature: false, isServiceProxyEnabled: true, isServiceProxyPremiumFeature: false, isWorkspacePremiumFeature: false, isWorkspaceEnabled: false,
+    };
 
     const features = data;
     console.debug('ServerApi::getFeatures resolves', features);
@@ -473,15 +491,15 @@ export default class ServerApi {
   // News
   async getLatestNews() {
     // eslint-disable-next-line
-    const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/news?platform=${os.platform()}&arch=${os.arch()}&version=${app.getVersion()}`,
-      this._prepareAuthRequest({
-        method: 'GET',
-      }));
-
-    if (!request.ok) {
-      throw request;
-    }
-    const data = await request.json();
+    // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/news?platform=${os.platform()}&arch=${os.arch()}&version=${app.getVersion()}`,
+    //   this._prepareAuthRequest({
+    //     method: 'GET',
+    //   }));
+    //
+    // if (!request.ok) {
+    //   throw request;
+    // }
+    const data = []; // await request.json();
     const news = this._mapNewsModels(data);
     debug('ServerApi::getLatestNews resolves', news);
     return news;
