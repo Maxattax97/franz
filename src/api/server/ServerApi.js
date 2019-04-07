@@ -1,4 +1,4 @@
-import os from 'os';
+// import os from 'os';
 import path from 'path';
 import tar from 'tar';
 import fs from 'fs-extra';
@@ -46,7 +46,7 @@ export default class ServerApi {
   recipes = [];
 
   // User
-  async login(email, passwordHash) {
+  async login() { // email, passwordHash) {
     console.log('Login attempt');
     // const request = await window.fetch(`${SERVER_URL}/${API_VERSION}/auth/login`, this._prepareAuthRequest({
     //   method: 'POST',

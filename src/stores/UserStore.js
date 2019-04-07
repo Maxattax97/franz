@@ -148,7 +148,7 @@ export default class UserStore extends Store {
   }
 
   // Actions
-  @action async _login({ email, password }) {
+  @action async _login() { // { email, password }) {
     // const authToken = await this.loginRequest.execute(email, password)._promise;
     // this._setUserData(authToken);
 
